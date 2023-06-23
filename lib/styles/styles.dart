@@ -51,6 +51,7 @@ const textGraySubTitle = TextStyle(
     fontWeight: FontWeight.normal,
     letterSpacing: 1,
     color: Colors.blueGrey
+
 );
 
 const cardShape = RoundedRectangleBorder(
