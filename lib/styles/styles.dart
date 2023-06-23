@@ -28,7 +28,6 @@ const textFieldDecoration = InputDecoration(
     labelStyle: TextStyle(
       color: Color(0xFFF3F3F3),
       fontWeight: FontWeight.w500,
-
     ),
     //hintText: "______",
     hintStyle: TextStyle(
